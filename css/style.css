@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    width: 50%;
+    margin: auto;
+    margin-top: 200px;
+}
+.field{
+    border-radius: 20px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background-image: url("../image/login_bgimage.avif");
+}
+
+input,button{
+    margin-top: 20px;
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+}
+.user_email{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.user_email,img{
+    height: 30px;
+
+}
